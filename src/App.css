@@ -1,0 +1,146 @@
+.content-area{
+  width:50%;
+  display:flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form-frame
+{
+  padding:10px;
+}
+
+.payment-logo
+{
+  width: 250px;
+  height: 250px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  padding:10px;
+}
+
+.radio-frame
+{
+  margin-top: 10px;
+}
+
+.radio-group
+{
+  margin-left: 10px;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+.radio-content-left
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+}
+
+.radio-content-mid
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.radio-content-right
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.store-link
+{
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bank-caption
+{
+  float: left;
+}
+
+.badge
+{
+  float: right;
+}
+
+.bank-logo
+{
+  width:50%;
+  display:flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  width:250px;
+  height:250px;
+}
+
+.settings-button
+{
+  margin-top: 10px;
+  width:50%;
+  display:flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.payment-board
+{
+  margin-top: 10px;
+}
+
+.text-group{
+  margin-top:10px;
+  margin-bottom:10px;
+  margin-right:10px;
+  margin-left:10px;
+}
+
+.individual-text
+{
+  margin-top:10px;
+}
+
+.select-content-left
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: left;
+  width:25%;
+
+}
+
+.select-content-mid
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width:22%;
+  padding-left:10px;
+}
+
+.select-content-right
+{
+  display: table-cell;
+  vertical-align: middle;
+  text-align: center;
+  width:50%;
+  padding-left: 16px;
+}
+
+.select-group
+{
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+    margin-top:10px;
+    margin-bottom:10px;
+}
